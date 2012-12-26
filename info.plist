@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>wreel@qvfehcgviriragherf.pbz</string>
+	<key>contactName</key>
+	<string>Jerry Richardson</string>
+	<key>description</key>
+	<string>A theme for Textmate 2 based on the [GitHub user interface](http://github.com) and the [GitHub theme for TextMate 1.x](https://github.com/sbecker/github_textmate_theme), created by Scott Becker in 2008.</string>
+	<key>name</key>
+	<string>Github Theme</string>
+	<key>uuid</key>
+	<string>3B2B620D-813C-4FF3-A57A-BAF4C63DAD63</string>
+</dict>
+</plist>
